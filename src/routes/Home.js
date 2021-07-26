@@ -23,7 +23,10 @@ function Copyright() {
       align="right"
       style={{ marginTop: 10 }}
     >
-      {'Copyright © '}
+      <a color="inherit" href="https://github.com/ingu88/fh4-cars">
+        fh4-cars git
+      </a>
+      {' & '}
       <a color="inherit" href="http://rankin.co.kr/">
         Rankin
       </a>{' '}
