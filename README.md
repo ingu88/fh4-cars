@@ -11,4 +11,4 @@ Data & Image is provided by the fandom site below.
 
 - This is an educational project.
 
-[DEMO SITE](http://rankin.co.kr/fh4car/#/).
+[DEMO SITE](http://ingu88.dothome.co.kr/#/).
